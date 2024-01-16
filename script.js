@@ -31,13 +31,13 @@ class Teacher extends Person {
 }
 // const person = new Person("Akhilesh", 23);
 // console.log(person.name);
-const student = new Student("Akhilesh", 23);
-console.log(student.name);
-student.study();
+// const student = new Student("Akhilesh", 23);
+// console.log(student.name);
+// student.study();
 
-const teacher = new Teacher("Professor Smith", 35);
-console.log(teacher.name); // Output: Professor Smith
-teacher.teach();
+// const teacher = new Teacher("Professor Smith", 35);
+// console.log(teacher.name); // Output: Professor Smith
+// teacher.teach();
 
 // Do not change the code below this line
 window.Person = Person;
